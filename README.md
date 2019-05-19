@@ -1,3 +1,7 @@
+# this tutorial, but done in react
+
+https://hackernoon.com/motion-detection-in-javascript-2614adea9325
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
